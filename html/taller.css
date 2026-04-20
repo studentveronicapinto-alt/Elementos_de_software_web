@@ -1,0 +1,11 @@
+body {
+    background-color: pink;
+
+    ul {
+        column-count: 2;
+    }
+
+    h2 {
+        fount-size: 30px;
+    }
+}
