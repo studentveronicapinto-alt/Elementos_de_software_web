@@ -1,0 +1,29 @@
+body {
+  font-family: Arial;
+  background-color: lightgray;
+  color: black;
+}
+
+header {
+  background-color: purple;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+main {
+  background-color: white;
+  padding: 15px;
+  margin: 10px;
+}
+
+p {
+  font-size: 18px;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
